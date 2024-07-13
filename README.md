@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alex-dixon
 - 👀 I’m interested in programming. 
-- 🌱 I’m currently learning work life imbalance. 
-- 💞️ I’m looking to collaborate on sane software development. 
+- 🌱 I’m currently learning programming.
+- 💞️ I’m looking to collaborate on programming. 
 - 📫 How to reach me: Twitter @a_dixon
 
 <!---
